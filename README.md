@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Gulnishan 👋
 
-<!--
-**gulnishanaslanli/gulnishanaslanli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧪 **QA Automation Engineer Intern** · 📍 Baku, Azerbaijan
 
-Here are some ideas to get you started:
+🔍 I am learning to make software reliable. I like to find what is broken, understand why, and write tests that keep it from breaking again.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 My background in teaching and linguistics taught me to pay attention to small details and to write clearly — two things I use every day in QA.
+
+🎓 Now I am in the **QA to SDET Bootcamp at Ingress Academy**.
+🎯 I am looking for a **QA automation internship**.
+
+## 🛠️ Skills
+
+- 💻 **Programming:** Java (OOP), SQL
+- 🤖 **UI automation:** Selenium WebDriver, Page Object Model, TestNG / JUnit, Maven
+- 🔗 **API testing:** Postman (collections, environments, test scripts), REST, JSON
+- 🗄️ **Databases:** MySQL
+- 🧰 **Tools:** Jira, Git / GitHub, IntelliJ IDEA
+- ✅ **QA basics:** manual testing, test cases, bug reports, regression and smoke testing, SDLC / STLC, Agile / Scrum
+
+## 🎓 Education
+
+- 🚀 **QA to SDET Bootcamp** — Ingress Academy · 2026 – present
+- 📖 **Master's degree, Linguistics** — Azerbaijan State University of Languages · 2022 – 2024
+- 📖 **Bachelor's degree, English Language and Literature** — Baku Slavic University · 2017 – 2021
+
+## 📫 Contact
+
+💼 [LinkedIn](https://www.linkedin.com/in/gulnishan-aslanli/)
